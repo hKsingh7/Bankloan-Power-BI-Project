@@ -51,7 +51,7 @@ This section allows **deep drill-down analysis** on borrower segments and loan p
 ---
 
 ## 🚀 Usage
-- Open the `.pbix` file in **Power BI Desktop**.  
+- Open the `.pdf` file in **Power BI Desktop**.  
 - Use slicers for **State, Loan Grade, Purpose, and Home Ownership** to filter insights.  
 - Navigate through **Summary → Overview → Details** for progressive drill-down.  
 
